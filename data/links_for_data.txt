@@ -1,0 +1,3 @@
+https://github.com/inzva/Turkish-GloVe
+https://nlp.stanford.edu/projects/glove/
+https://www.manythings.org/anki/
